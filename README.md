@@ -31,4 +31,18 @@ my_plot
 
 ```
 
+## Usage
+To explore this visualization:
+
+Clone this repository:
+
+```
+git clone https://github.com/your-username/iris-3d-plot.git
+
+```
+Open the provided R script in RStudio or any R environment.
+Ensure the necessary packages (tidyverse, plotly, htmlwidgets) are installed.
+Run the script to generate the 3D scatter plot.
+Interact with the plot to explore the relationships between sepal length, sepal width, and petal length among different Iris species.
+Feel free to modify the code or explore further functionalities provided by Plotly for interactive visualization.
 
