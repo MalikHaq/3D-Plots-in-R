@@ -42,7 +42,7 @@ To explore this visualization:
 - Clone this repository:
 
 ```
-git clone https://github.com/your-username/iris-3d-plot.git
+git clone https://github.com/MalikHaq/3D-Plots-in-R.git
 
 ```
 - Open the provided R script in RStudio or any R environment.
