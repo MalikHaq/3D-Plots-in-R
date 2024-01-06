@@ -31,6 +31,11 @@ my_plot
 
 ```
 
+
+![newplot](https://github.com/MalikHaq/3D-Plots-in-R/assets/150603131/ab754ccb-dcaf-4a9a-b2a9-92df8bd74035)
+
+
+
 ## Usage
 To explore this visualization:
 
